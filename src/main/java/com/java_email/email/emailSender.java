@@ -9,10 +9,10 @@ public class emailSender{
     public static void main(String[] args) {
 
         // 1. Configure the recipient and your sender information
-        String to = "dhruvshingote770@gmail.com"; 
-        String from = "civicwatch.pune@gmail.com";
+        String to = "to your name"; 
+        String from = " from sender name";
         // Use the 16-character App Password generated in Step 1 (NO SPACES)
-        String appPassword = "srzv tjro vhur loyn"; 
+        String appPassword = "app password "; 
 
         // 2. Set SMTP server properties for Gmail
         Properties properties = new Properties();
